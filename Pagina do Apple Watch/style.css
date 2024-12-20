@@ -58,6 +58,10 @@ main {
   }
 }
 
+.icone_exclamacao {
+  line-height: 0.9rem;
+}
+
 #opcoes-produto {
   display: flex;
   flex-direction: column;
@@ -77,7 +81,7 @@ main {
     display: flex;
     & :first-child {
       width: fit-content;
-      margin-right: 0.3rem;
+      margin-right: 0.2rem;
     }
     & p {
       width: fit-content;
